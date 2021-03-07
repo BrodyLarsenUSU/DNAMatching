@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from scipy import stats
 import numpy as np
 
-dnaFile = "covid_DNA.fasta"
+
 fileName = "covid_DNA.fasta"
 
 def read_fasta(howMany = 2):
